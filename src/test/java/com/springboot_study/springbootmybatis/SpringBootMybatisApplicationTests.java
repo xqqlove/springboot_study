@@ -13,8 +13,8 @@ class SpringBootMybatisApplicationTests {
     @Test
     void contextLoads() {
 
-        User u = userService.Sel();
-        System.out.println(u);
+
+     
     }
 
 }
