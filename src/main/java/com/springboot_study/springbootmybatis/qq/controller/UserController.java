@@ -1,9 +1,8 @@
-package com.qq.controller;
+package com.springboot_study.springbootmybatis.qq.controller;
 
-import com.qq.service.UserService;
+import com.springboot_study.springbootmybatis.qq.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 

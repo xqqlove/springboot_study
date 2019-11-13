@@ -1,4 +1,4 @@
-package com.qq.entity;
+package com.springboot_study.springbootmybatis.qq.entity;
 
 public class User {
     private Integer id;
