@@ -1,7 +1,7 @@
-package com.springboot_study.springbootmybatis.qq.service;
+package com.springboot_study.springbootmybatis.service;
 
-import com.springboot_study.springbootmybatis.qq.entity.User;
-import com.springboot_study.springbootmybatis.qq.mapper.UserMapper;
+import com.springboot_study.springbootmybatis.entity.User;
+import com.springboot_study.springbootmybatis.mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

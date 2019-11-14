@@ -1,4 +1,4 @@
-package com.springboot_study.springbootmybatis.qq.entity;
+package com.springboot_study.springbootmybatis.entity;
 
 public class User {
 
