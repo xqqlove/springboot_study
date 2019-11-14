@@ -1,7 +1,7 @@
-package com.springboot_study.springbootmybatis.service;
+package com.mybatisGenerator.springboot.service;
 
-import com.springboot_study.springbootmybatis.entity.User;
-import com.springboot_study.springbootmybatis.mapper.UserMapper;
+import com.mybatisGenerator.springboot.Dao.UserMapper;
+import com.mybatisGenerator.springboot.Entry.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -12,6 +12,6 @@ public class UserService {
     @Autowired
     UserMapper userMapper;
     public List<User> Sel(){
-        return userMapper.Sel();
+        return userMapper.selectAll();
     }
 }

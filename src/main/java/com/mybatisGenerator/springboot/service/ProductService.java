@@ -1,4 +1,4 @@
-package com.springboot_study.springbootmybatis.service;
+package com.mybatisGenerator.springboot.service;
 
 import com.mybatisGenerator.springboot.Dao.ProductMapper;
 import com.mybatisGenerator.springboot.Entry.Product;
@@ -9,7 +9,6 @@ import java.util.List;
 
 @Service
 public class ProductService {
-
     @Autowired
     private ProductMapper productMapper;
 

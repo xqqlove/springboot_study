@@ -1,6 +1,6 @@
-package com.springboot_study.springbootmybatis.controller;
+package com.mybatisGenerator.springboot.controller;
 
-import com.springboot_study.springbootmybatis.service.UserService;
+import com.mybatisGenerator.springboot.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
