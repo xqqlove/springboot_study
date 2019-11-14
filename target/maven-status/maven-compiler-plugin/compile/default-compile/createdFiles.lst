@@ -1,0 +1,9 @@
+com\mybatisGenerator\springboot\service\ProductService.class
+com\mybatisGenerator\springboot\Dao\ProductMapper.class
+com\mybatisGenerator\springboot\controller\ProductController.class
+com\mybatisGenerator\springboot\service\UserService.class
+com\mybatisGenerator\springboot\SpringBootMybatisApplication.class
+com\mybatisGenerator\springboot\Entry\User.class
+com\mybatisGenerator\springboot\Entry\Product.class
+com\mybatisGenerator\springboot\controller\UserController.class
+com\mybatisGenerator\springboot\Dao\UserMapper.class
